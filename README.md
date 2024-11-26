@@ -1,6 +1,6 @@
-#AI- BASEDDIET-PLAN-RECOMMENDATION-
+#AI- BASED-DIET-PLAN-RECOMMENDATION-
 This project implements an AI-based diet recommendation system designed to generate personalized diet plans based on user inputs like weight, age, activity level, medical conditions, and dietary preferences.
-The system uses machine learning algorithm to classify users into different categories and recommends suitable diet types.
+The system uses a machine learning algorithm to classify users into different categories and recommends suitable diet types.
 
 Table of Contents
 
